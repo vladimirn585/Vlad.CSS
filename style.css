@@ -1,0 +1,44 @@
+
+
+body {
+  background: #cccccc;
+  font-family: arial, helvetica;
+  text-align: center;
+}
+
+h1 {
+  font-family: arial, helvetica;
+}
+
+img {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+  right: -9999px;
+  bottom: -9999px;
+  margin: auto;
+}
+
+.photo {
+  border: 20px solid #1e90ff;
+  height: 300px;
+  width: 300px;
+  border-bottom: 70px solid #1e90ff;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  overflow: hidden;
+}
+
+.photoDescription {
+  font-family: courier, serif;
+  font-size: 12pt;
+  color: 2d2d2d;
+  margin-bottom: 15px;
+}
+
+
+
+
